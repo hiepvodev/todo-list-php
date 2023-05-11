@@ -1,0 +1,3 @@
+Step1: Config database connection in database.php (userName & password)
+Step2: Run sql in db/database.sql
+Step3: Access to index.php (put the folder in htdoc(win10) & html (Ubuntu))
