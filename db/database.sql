@@ -1,0 +1,7 @@
+CREATE TABLE `todo` (
+`id` int(10) UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+`work_name` varchar(255) DEFAULT NULL,
+`start_date` DATETIME DEFAULT NULL,
+`end_date` DATETIME DEFAULT NULL,
+`status` INT DEFAULT 1
+)
